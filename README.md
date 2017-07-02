@@ -1,6 +1,7 @@
 # flask boilerplate
 
-this project was test for flask framework
+플라스크 보일러플레이트 입니다.
+구현 기능은 db만 연동이 되어 있습니다.
 
 # SETTING
 
